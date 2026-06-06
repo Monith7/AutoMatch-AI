@@ -1,0 +1,21 @@
+Car,Price,Fuel,Seats,Usage,Transmission
+Maruti Alto K10,450000,Petrol,5,City,Manual
+Maruti Swift,800000,Petrol,5,City,Manual
+Maruti Baleno,900000,Petrol,5,City,Automatic
+Hyundai i20,950000,Petrol,5,City,Automatic
+Hyundai Venue,1100000,Petrol,5,City,Automatic
+Tata Punch,700000,Petrol,5,City,Manual
+Tata Nexon,1200000,Petrol,5,Family,Automatic
+Tata Punch EV,1100000,Electric,5,City,Automatic
+Mahindra XUV 3XO,1300000,Petrol,5,Family,Automatic
+Mahindra Scorpio N,1800000,Diesel,7,Family,Manual
+Mahindra XUV700,2000000,Diesel,7,Family,Automatic
+Hyundai Creta,1500000,Diesel,5,Family,Automatic
+Kia Seltos,1600000,Petrol,5,Family,Automatic
+Toyota Innova Hycross,2500000,Hybrid,7,Family,Automatic
+Toyota Fortuner,3500000,Diesel,7,Highway,Automatic
+MG ZS EV,2200000,Electric,5,City,Automatic
+MG Hector,1800000,Petrol,5,Family,Automatic
+Honda City,1400000,Petrol,5,Highway,Automatic
+Skoda Slavia,1500000,Petrol,5,Highway,Automatic
+Volkswagen Virtus,1600000,Petrol,5,Highway,Automatic
