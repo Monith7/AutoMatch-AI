@@ -149,12 +149,20 @@ User Query:
 {prompt}
 """
 
-    response = client.models.generate_content(
-        model="gemini-2.0-flash",
-        contents=system_prompt
-    )
+    try:
+        response = client.models.generate_content(
+            model="gemini-2.5-flash-lite",
+            contents=system_prompt
+        )
 
-    reply = response.text
+        reply = response.text
+
+    except Exception:
+        reply = """
+🚗 AI service is temporarily busy.
+
+Please try again in a few moments.
+"""
 
     st.session_state.messages.append(
         {"role": "assistant", "content": reply}
